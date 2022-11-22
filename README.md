@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey Mate
+The names Kent, I dunno how you found me but here's my repo of low quality code created through the power of dodgy sleep schedules. 
+But hey it works, so I ain't complaining :P.
 
-<!--
-**Jpang9/Jpang9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- CyberSecurity Enthusiast
+- Enjoys poking at malware with a stick
+- Building Malware and having it detected instantly :D
+- Coding while Drunk or tired ... or both :/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working On it
+- Yara Rules
+- My Own C2
+
+### Completed
+- MalJupyter - A Malware triage tool
